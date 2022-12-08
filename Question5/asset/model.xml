@@ -1,0 +1,24 @@
+<?xml version = "1.0" encoding="UTF-8"?>
+<PLYMODEL>
+	<model name="terrain">asset/model/terrain_texture.ply
+		<modelInstance>terrain01
+			<posX>0</posX>
+			<posY>0</posY>
+			<posZ>0</posZ>
+			<rotateX>0</rotateX>
+			<rotateY>0</rotateY>
+			<rotateZ>0</rotateZ>
+		</modelInstance>
+	</model>
+	<model name="robot">asset/model/dreadnoght.ply
+	</model>
+	<model name="sphere">asset/model/ISO_Shphere_flat_3div_xyz_n_rgba_uv.ply
+	</model>
+	<model name="cube">asset/model/cube.ply
+	</model>
+</PLYMODEL>
+<EYE_LOCATION>
+	<x>0.0</x>
+	<y>100.0</y>
+	<z>300.0</z>
+</EYE_LOCATION>
